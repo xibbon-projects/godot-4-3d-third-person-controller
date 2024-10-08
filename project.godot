@@ -109,7 +109,7 @@ pause={
 
 [input_devices]
 
-virtual_controller/show_controller=true
+virtual_controller/ios/enable_controller=true
 
 [layer_names]
 
