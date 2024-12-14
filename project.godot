@@ -121,3 +121,8 @@ virtual_controller/ios/enable_controller=true
 [physics]
 
 3d/default_gravity=16.0
+
+[xogot]
+
+project/editorState=[]
+project/breakpoints={}
