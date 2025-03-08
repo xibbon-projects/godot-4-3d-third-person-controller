@@ -124,6 +124,7 @@ virtual_controller/ios/enable_controller=true
 
 [rendering]
 
+renderer/rendering_method="forward_plus"
 textures/vram_compression/import_s3tc_bptc=true
 textures/vram_compression/import_etc2_astc=true
 
