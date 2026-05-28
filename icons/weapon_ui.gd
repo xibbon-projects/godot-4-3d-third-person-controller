@@ -11,7 +11,7 @@ var selected_node: String = ""
 func switch_to(node_name : String):
 	# Return if same node
 	if node_name == selected_node: return
-	if selected_node != "": 
+	if selected_node != "":
 		# Unselect previous
 		nodes[selected_node].set_state(false)
 	# Select node
