@@ -10,7 +10,7 @@ metadata={
 
 [deps]
 
-source_file="res://DemoPage/twitter-icon.svg"
+source_file="res://demo_page/twitter-icon.svg"
 dest_files=["res://.godot/imported/twitter-icon.svg-fe563385c8ee2a8f27181bf20c3d987f.ctex"]
 
 [params]

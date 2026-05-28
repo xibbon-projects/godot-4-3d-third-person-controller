@@ -27,7 +27,6 @@ window/size/viewport_width=1920
 window/size/viewport_height=1080
 window/stretch/mode="canvas_items"
 window/stretch/aspect="keep_height"
-window/stretch/scale_mode="fractional"
 
 [dotnet]
 
@@ -140,3 +139,4 @@ textures/vram_compression/import_etc2_astc=true
 
 project/editorState=[]
 project/breakpoints={}
+project/disabled_breakpoints={}

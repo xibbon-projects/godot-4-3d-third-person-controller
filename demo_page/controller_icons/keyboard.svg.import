@@ -10,7 +10,7 @@ metadata={
 
 [deps]
 
-source_file="res://DemoPage/ControllerIcons/keyboard.svg"
+source_file="res://demo_page/controller_icons/keyboard.svg"
 dest_files=["res://.godot/imported/keyboard.svg-f05366f0b549a9db4f3d1bab3707c0a1.ctex"]
 
 [params]

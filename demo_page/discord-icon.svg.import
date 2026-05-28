@@ -10,7 +10,7 @@ metadata={
 
 [deps]
 
-source_file="res://DemoPage/discord-icon.svg"
+source_file="res://demo_page/discord-icon.svg"
 dest_files=["res://.godot/imported/discord-icon.svg-c557f900d2beb28a5f86fa72ea36a406.ctex"]
 
 [params]

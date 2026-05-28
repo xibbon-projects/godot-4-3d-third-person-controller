@@ -10,7 +10,7 @@ metadata={
 
 [deps]
 
-source_file="res://DemoPage/itch-icon.svg"
+source_file="res://demo_page/itch-icon.svg"
 dest_files=["res://.godot/imported/itch-icon.svg-743af81174e7a6003f94f98b25b19a44.ctex"]
 
 [params]
